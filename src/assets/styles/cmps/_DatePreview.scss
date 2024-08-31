@@ -1,0 +1,18 @@
+.date-preview {
+  display: grid;
+  gap: 0.5rem;
+  background-color: brown;
+  color: white;
+  max-width: 20rem;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+  p {
+    margin: 0;
+  }
+
+  img {
+    margin-inline-start: -0.5rem;
+  }
+}

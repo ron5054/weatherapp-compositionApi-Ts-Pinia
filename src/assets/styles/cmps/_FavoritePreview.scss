@@ -1,0 +1,11 @@
+.favorite-preview {
+  display: grid;
+  gap: 0.5rem;
+  background-color: brown;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  img {
+    margin-inline-start: -0.5rem;
+  }
+}

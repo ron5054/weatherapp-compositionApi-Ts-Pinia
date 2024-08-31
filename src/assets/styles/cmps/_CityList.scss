@@ -1,0 +1,11 @@
+.city-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.5rem;
+  padding: 1rem;
+
+  @media screen and (max-width: 768px) {
+    padding: unset;
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

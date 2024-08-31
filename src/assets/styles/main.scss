@@ -1,0 +1,15 @@
+//BASICS
+@import './basics/base';
+@import './basics/animations';
+
+//COMPONENTS
+@import './cmps/Header';
+@import './cmps/WeatherIndex';
+@import './cmps/Footer';
+@import './cmps/DateList';
+@import './cmps/DatePreview';
+@import './cmps/CityDetails';
+@import './cmps/CityPreview';
+@import './cmps/CityList';
+@import './cmps/FavoriteList';
+@import './cmps/FavoritePreview';
